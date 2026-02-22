@@ -10,6 +10,7 @@ A modern, responsive CV and portfolio website built with Next.js, TypeScript, an
 - **Professional Layout**: Clean and organized presentation of experience, skills, and education
 - **Contact Form**: Functional contact form for easy communication
 - **Optimized Performance**: Built with Next.js for fast loading and excellent SEO
+- **npm Registry Fix**: Uses public npm registry for deployment compatibility
 
 ## 🎨 Design
 
